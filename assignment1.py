@@ -2,7 +2,7 @@
 Replace the contents of this module docstring with your own details
 Name: Nguyen Hoang Ba Han
 Date started: 4th December, 2020
-GitHub URL: https://github.com/JCUS-CP1404/assignment-1---movies-NguyenHan123-Aston
+GitHub URL: https://github.com/JCUS-CP1404/assignment-1---movies-NguyenHan123-Aston-master
 """
 
 
